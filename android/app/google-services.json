@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "456729626492",
+    "project_id": "excellent-camp-223911",
+    "storage_bucket": "excellent-camp-223911.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456729626492:android:97d6acc00d1fa7ecad06f9",
+        "android_client_info": {
+          "package_name": "com.example.my_real_conv_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjcUMBAAVGun_A7ce9R-5MaZLtsWh1_Z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456729626492:android:1e5337daedb7e203ad06f9",
+        "android_client_info": {
+          "package_name": "my_test.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjcUMBAAVGun_A7ce9R-5MaZLtsWh1_Z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "excellent-camp-223911",
+    "private_key_id": "41e5dea8503804ca93f23cb4b1c231b5bd9c7c72",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCy/GeWOz4NBoh6\ngWD8GarTd0a8V/temk8D/2JCVebUUEYruO2L8YDwWd1H439SIBfReyUMZRcKHMf7\nryHxCaDSMQtTWv+QGU8CGVDy7Z9va0bd3cNC4MfVfnlarL4z1xixI6/uYXTAG1f/\nSRWQCw6L517qWCO7ETG+e07XfClbQu9yPjQcpnTl6+Oy8YmvnskzsOfhUHOXTp63\nki+qCH2n6b0qaRcv1IOEY6SGzRWBLikmSoDey6KIAgxe/FJHQnJOoaONqvYB2WRL\n3hIwlA0LLOdfmVLpPDf9ht91pxdNgLSdb1SXT3W+PCm9yJTBNZCHwgF6naWqJpwn\n15Dmon5XAgMBAAECggEAMOPkMbOl++3casYbZVFniZLLphfMSGeTDM7+GouXXUg+\nGqRNcsv5ge2yFXhtZ1Pv3Z8rHAsi83awI64PceVE4hVWeCLjqwtWuwaKR4kj403k\n0ibItuRqgYUmBeAopkVrb7uFS3KgbvcpHsjqVGnIw+tj0FRaEjecpGDPROob69rT\n7EWWJUplnwjl2RfaJkQAqOCwI7yO2481gWGEJqeq4UPJ44HaxrmXXa1yeoaNp/zs\nw+v5GuPiENVMxahuVqeQcbjlFSqZJ23QPG9ggwo58+TT/s52PcwULzqxOUT8777j\nxU0m5zHsnY58qHnEzc4dZvoDcSKs54oRifwqaRwv6QKBgQDo6sZxUAqWfAORsYIK\nHDyEfOrHgLlyXX/hKWWWN8AFxOb/xDvc+a1tzQG08Ll8Ya09vzWjctEDOh3y6k6G\nrIqf0wc5Rq6S9QUPzBfK1dDEETw462cMzW7k2SW2mUUK9NWlAJb71jRzqldGG5HT\n4we0M9qBskccKfpozvy7wIxTnwKBgQDEuV6DvjjTMFVgoMLuVqBIk6lKEHRNpy06\n3K0nMLfN3o2+1QQlLKUOcqZlrhKCOjc5vizW3B3JrGl1ADopZmTdHHM6O+St5f83\nADZwKYIyUMTF/2mCPty72lrYvGAhB1Yzo9bSHhUgTVLHNG/ziI5iyzi2dVRIwmQz\nO18Xkg+aSQKBgF7m4ipjUZ0VNKMVb4XNEX9uIn9dXLJTlHpa0rCNUKlJHFIUU8vq\n05ZMlKhz+S/L4LmrAiDx9GXbNT63530KKoWKh4P338OzH/fa0crsqd5po18R03As\n+EU4kRxAgRhAwBg2EE7WbZK/UkYXj6iE9augASUdTcoU9Jnl1KZvgv3DAoGBAMJl\n06ooPYskRho4gqh3XeiaUj3oSKW7wAxcqZcCo3+Cn1umsHPzzB+c2CW+gHfEA3LC\nJRklZyI1h/iggtkKYD3HsW4oZXAaybqWMTVhL1F9UxW9sYuNhx7zRbbLX8sDrwFU\ntCHqrEHBZz2G6eIkXV/vJlnXU7Sas92UnAF0yopRAoGALvr9NlDFXsY+5Xm4v1tV\nSsQ8j/aJ0rlbkEKpkkmxtkxRIkOLGAaHepSJhMQfvUT94wbNSftNcSCNoeZmr10E\n22SNzSpZDud4vVUzGgts51fM80+T7cgZ9jr1AnE7pudvVt3n9oGT+csYdSkWSIZv\nUbP6EpvnjVG3C88UmxNt1Ow=\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-uxfen@excellent-camp-223911.iam.gserviceaccount.com",
+    "client_id": "116558937424977721835",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-uxfen%40excellent-camp-223911.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  
